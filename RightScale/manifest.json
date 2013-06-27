@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,
+  "name": "RightScale",
+  "description": "RightScale Cloud Management.",
+  "version": "0.0.1",
+  "icons": {
+    "128": "icon_128.png"
+  },
+  "app": {
+    "urls": [
+      "http://rightscale.com/"
+    ],
+    "launch": {
+      "web_url": "http://my.rightscale.com/"
+    }
+  },
+  "permissions": [
+    "unlimitedStorage",
+    "notifications"
+  ]
+}
